@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**shujaat-siddiqui/shujaat-siddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a Full Stack Product Engineer :golf:
 
-Here are some ideas to get you started:
+## :satellite: Looking for an opportunity to broadcast and utilize my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My primary skills are:
+  - JAVA
+  - Spring Boot
+  - Spring Data
+  - REST API
+
+#### Comfortable working with Micro-services.⚡
+
+
