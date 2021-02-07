@@ -10,6 +10,6 @@
   - Spring Data
   - REST API
 
-#### Comfortable working with Micro-services.⚡
+#### Comfortable in working with Micro-services.⚡
 
 
