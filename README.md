@@ -5,9 +5,9 @@
 ### My primary skills are:
   - JAVA
   - Spring Boot
-  - Spring Data
+  - Angular
   - REST API
+  - Microservices architecture
 
-#### ⚡ Comfortable in working with Micro-services.
 
 
